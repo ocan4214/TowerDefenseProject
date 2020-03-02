@@ -17,3 +17,6 @@ Google Play Achievement
 
 Refactoring
 
+![Start Screen](https://imgur.com/3n6zscl)
+
+![Gameplay](https://imgur.com/Ih6IKLY)
