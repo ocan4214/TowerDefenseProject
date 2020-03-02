@@ -17,6 +17,8 @@ Google Play Achievement
 
 Refactoring
 
+Main Menu:
 ![Start Screen](towerdefensegithub1.png)
 
-![Gameplay](https://imgur.com/Ih6IKLY)
+Gameplay:
+![Gameplay](towerdefensegithub2.png)
